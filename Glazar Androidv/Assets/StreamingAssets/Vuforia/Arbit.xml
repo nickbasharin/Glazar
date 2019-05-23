@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="heart" size="1.000000 1.000000" />
+    <ImageTarget name="fashon" size="3.000000 2.314286" />
+    <ImageTarget name="vid_fs_playnazrib" size="5.000000 4.800000" />
+    <ImageTarget name="vid_fs_playintegra" size="5.000000 4.022887" />
+    <ImageTarget name="vid_fs_playslolkovo2" size="5.000000 2.462687" />
+    <ImageTarget name="vid_fs_playslolkovo1" size="5.000000 2.462687" />
+    <ImageTarget name="vid_fs_playrostech" size="5.000000 5.000000" />
+    <ImageTarget name="vid_fs_playfashon4" size="5.000000 7.689050" />
+    <ImageTarget name="vid_fs_playfashon2" size="5.000000 5.000000" />
+    <ImageTarget name="vid_fs_playfashon1" size="5.000000 3.887763" />
+    <ImageTarget name="vid_fs_playneftegaz5" size="5.000000 3.323353" />
+    <ImageTarget name="vid_fs_playneftegaz4" size="5.000000 2.012138" />
+    <ImageTarget name="vid_fs_playneftegaz1" size="5.000000 5.251938" />
+    <ImageTarget name="vid_fs_playneftegaz" size="5.000000 5.050505" />
+    <ImageTarget name="vid_fs_playqin" size="5.000000 4.010417" />
+    <ImageTarget name="robot8m" size="5.000000 7.111111" />
+    <ImageTarget name="8marta" size="5.000000 2.708333" />
+    <ImageTarget name="vid_fs_playmart3" size="5.000000 3.594944" />
+    <ImageTarget name="vid_fs_playmart2" size="5.000000 7.111111" />
+    <ImageTarget name="vid_fs_playmart1" size="5.000000 3.426966" />
+    <ImageTarget name="vid_omillionwhiteplay" size="5.000000 4.484746" />
+    <ImageTarget name="vid_omillionplay" size="8.000000 5.338346" />
+    <ImageTarget name="trash" size="5.000000 2.812500" />
+    <ImageTarget name="vid_fs_playsergey" size="5.000000 3.042351" />
+    <ImageTarget name="markersudia" size="3.000000 1.687500" />
+    <ImageTarget name="tank" size="10.000000 5.710000" />
+    <ImageTarget name="marker_vratar" size="3.000000 1.687500" />
+    <ImageTarget name="soccer" size="2.500000 1.406667" />
+    <ImageTarget name="zabivaka" size="2.500000 1.406667" />
+    <ImageTarget name="musket" size="2.500000 1.681250" />
+    <ImageTarget name="baba" size="5.000000 2.812500" />
+    <ImageTarget name="trio" size="5.000000 2.812500" />
+    <ImageTarget name="vid_fs_playamateur" size="10.000000 10.067873" />
+    <ImageTarget name="vid_fs_playregionirossii" size="5.000000 2.207031" />
+    <ImageTarget name="vid_glonasstechnologyplay" size="5.000000 2.873201" />
+    <ImageTarget name="vid_regionirossiiplay" size="5.000000 2.726852" />
+    <ImageTarget name="vid_glonasstechplay" size="5.000000 3.000000" />
+    <ImageTarget name="soldier" size="5.000000 6.575343" />
+    <ImageTarget name="vid_ventoplay" size="10.000000 6.468750" />
+    <ImageTarget name="vid_kompany39play" size="10.000000 5.750000" />
+    <ImageTarget name="vid_festivalplay" size="10.000000 5.250000" />
+    <ImageTarget name="vid_deloplay" size="10.000000 6.555944" />
+    <ImageTarget name="vid_bank2play" size="10.000000 6.875000" />
+    <ImageTarget name="vid_voenplay" size="10.000000 14.121094" />
+    <ImageTarget name="vid_glonasplay" size="10.000000 6.641414" />
+    <ImageTarget name="elka" size="5.000000 6.655290" />
+  </Tracking>
+</QCARConfig>

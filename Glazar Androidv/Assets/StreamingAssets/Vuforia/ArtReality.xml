@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="denisOtr" size="5.000000 2.287853" />
+    <ImageTarget name="soccer2" size="2.500000 3.533977" />
+    <ImageTarget name="Pazl_umba_marker" size="10.000000 4.996825" />
+  </Tracking>
+</QCARConfig>
